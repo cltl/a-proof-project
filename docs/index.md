@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to A-PROOF: Automated Prediction of post-COVID RecOvery Of Functioning
 
-You can use the [editor on GitHub](https://github.com/cltl/a-proof-project/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+A-proof is a collaboration of medical and AI researchers to develop technology that can automatically montitor the functioning of people in need of health care.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="./images/A-PROOF2.png" width=60% height=60%>
 
-### Markdown
+### Project code:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ul>
+    <li> [Pilot-project](https://github.com/cltl/a-proof) </li>
+    <li> [ZonMW project] (https://github.com/cltl/a-proof-zonmw) </li>
+    <li> Classifier:</li>
+    <ul>
+        <li> [Github](https://github.com/cltl/aproof-icf-classifier) </li>
+        <li> [Docker](https://hub.docker.com/r/piekvossen/a-proof-icf-classifier) </li>
+    </ul>
+</ul>
+    
+### Publications
 
-```markdown
-Syntax highlighted code block
+<ul>
+    <li> Kim J, Verkijk S, Geleijn E, Van der Leeden M, Meskers CGM, Meskers CJW, Van der Veen S, Vossen PJTM, Widdershoven GAM, Modeling Dutch Medical Texts for Detecting Functional Categories and Levels of COVID-19 Patients, Proceedings of the Language Resources and Evaluation Conference (LREC), 2022, Marseille. </li>
+    <li> Meskers CGM, van der Veen S, Kim J, Meskers CJW, Smit QTS, Verkijk S, Geleijn E, Widdershoven GAM, Vossen PTJM, van der Leeden M. Automated recognition of functioning, activity and participation in COVID-19 from electronic patient records by natural language processing: a proof- of- concept. Ann Med. 2022 Dec;54(1):235-243 </li>
+    <li> Verkijk S, and Vossen PJTM, “Medroberta.nl: a language model for dutch electronic health records,” Computational linguistics in the Netherlands journal, vol. 11, 2021 </li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+### The A-PROOF team:
 
-- Bulleted
-- List
+<ul>
+    <li> Marike van der Leeden, Sabina van der Veen, Edwin Geleijn, Carel Meskers, Guy Widdershoven (VU-UMC) </li>
+    <li> Piek Vossen, Mark Hoogendoorn (VU) </li>
+    <li> Students: Gianluca Truda, Stella Verkijk, Caroline Meskers, Quirine Smit, Jenia Kim, Jasper Opsomer, Quinten Vervaart , Luca Bos, Nienke Swartjes, Stella Avelli, Joey Katsburg, Hannah van der Pas </li>
+</ul>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cltl/a-proof-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For questions, please contact: piek.vossen@vu.nl
