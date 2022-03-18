@@ -2,7 +2,7 @@
 
 A-proof is a collaboration of medical and AI researchers to develop technology that can automatically montitor the functioning of people in need of health care.
 
-![A-PROOF schema]("./images/A-PROOF2.png")
+![A-PROOF schema](./images/A-PROOF2.png)
 
 ### Project code:
 
