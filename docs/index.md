@@ -7,12 +7,12 @@ A-proof is a collaboration of medical and AI researchers to develop technology t
 ### Project code:
 
 <ul>
-    <li> [Pilot-project](https://github.com/cltl/a-proof) </li>
-    <li> [ZonMW project] (https://github.com/cltl/a-proof-zonmw) </li>
+    <li> ![Pilot-project](https://github.com/cltl/a-proof) </li>
+    <li> ![ZonMW project] (https://github.com/cltl/a-proof-zonmw) </li>
     <li> Classifier:</li>
     <ul>
-        <li> [Github](https://github.com/cltl/aproof-icf-classifier) </li>
-        <li> [Docker](https://hub.docker.com/r/piekvossen/a-proof-icf-classifier) </li>
+        <li> ![Github](https://github.com/cltl/aproof-icf-classifier) </li>
+        <li> ![Docker](https://hub.docker.com/r/piekvossen/a-proof-icf-classifier) </li>
     </ul>
 </ul>
     
