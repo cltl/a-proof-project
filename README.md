@@ -1,1 +1,1 @@
-# a-proof-project
+# A-proof-project
