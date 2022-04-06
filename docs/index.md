@@ -1,6 +1,6 @@
-## Welcome to A-PROOF: Automated Prediction of post-COVID RecOvery Of Functioning
+## Welcome to A-PROOF: Automated Prediction of post-COVID Recovery Of Functioning
 
-A-proof is a collaboration of medical and AI researchers to develop technology that can automatically montitor the functioning of people in need of health care.
+A-proof is a collaboration of medical and AI researchers to develop technology that can automatically monitor the functioning of people in need of health care.
 
 ![A-PROOF schema](./images/A-PROOF2.png)
 
