@@ -25,9 +25,6 @@ A-proof is a collaboration of medical and AI researchers to develop technology t
 </ul>
 
 ### The A-PROOF team:
-
-[Meet the A-proof Team](/team.html)
-
 <ul>
     <li> Marike van der Leeden, Sabina van der Veen, Edwin Geleijn, Carel Meskers, Guy Widdershoven (VU-UMC) </li>
     <li> Piek Vossen, Mark Hoogendoorn (VU) </li>
