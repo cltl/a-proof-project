@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 
 navigation:
 - {file: "/team.html", title: "Meet the Team", icon: address-card}
+
+plugins:
+- jekyll-feed
