@@ -1,6 +1,4 @@
 theme: jekyll-theme-slate
 
 navigation:
-- {title: "Meet the Team"}
-- {title: "Project Description"}
-- {title: "Publications"}
+- {file: "/team.html", title: "Meet the Team", icon: address-card}
