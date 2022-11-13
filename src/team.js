@@ -1,10 +1,10 @@
-import TeamPhoto from "./images/A-PROOF_team.png"
-import Doctors from "./images/dokters_vumc.png"
+import teamphoto from "./img/A-PROOF_team.png"
+import doctors from "./img/doctors.png"
 
 export default function Team() {
     return (
         <div>
-            <img className="bg overlap" src={Doctors} alt="dokters"></img>
+            <img className="bg overlap" src={doctors} alt="dokters"></img>
             <div className="page">
                 <div className="textcontainer">
                     <h1>The A-PROOF Core Team</h1>
@@ -35,7 +35,7 @@ export default function Team() {
                         </li>
                     </ul>
                 </div>
-                <img className="smallimage" src={TeamPhoto} alt="team"></img>
+                <img className="smallimage" src={teamphoto} alt="team"></img>
             </div>
         </div>
     )

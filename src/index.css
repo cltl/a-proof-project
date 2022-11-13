@@ -53,16 +53,16 @@ h1 {
   font-size: 18px;
 }
 
-.logo{
-  margin:5px;
+.logo {
+  margin: 5px;
   border-radius: 25px;
-  width:200px;
+  width: 200px;
 }
 
-.logocontainer{
-  background-color:white;
-  border-radius:25px;
-  width:fit-content;
+.logocontainer {
+  background-color: white;
+  border-radius: 25px;
+  width: fit-content;
   margin-top: -10px;
 }
 
@@ -89,19 +89,19 @@ h1 {
   font-size: 20px;
 }
 
-.navlink{
-  width:100%;
+.navlink {
+  width: 100%;
   display: flex;
   justify-content: space-around;
   gap: 50px;
 }
 
-.navlink > a{
+.navlink>a {
   color: white !important;
   text-decoration: none;
 }
 
-.navlink > a:hover {
+.navlink>a:hover {
   color: darkgreen !important;
 }
 
@@ -137,8 +137,8 @@ h1 {
   padding-bottom: 40px;
 }
 
-.spacedul > li{
-  margin-bottom: 10px; 
+.spacedul>li {
+  margin-bottom: 10px;
 }
 
 .subpage {
@@ -157,9 +157,9 @@ h1 {
   border-radius: 5px;
 }
 
-.textcontainer{
-  inline-size:70ch;
-  width:70%;
+.textcontainer {
+  inline-size: 70ch;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
 }
