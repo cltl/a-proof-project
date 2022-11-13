@@ -1,3 +1,6 @@
+**Note by Ellemijn**: see ``src/about.js``, ``src/contact.js``, ``src/team.js`` and ``src/publications.js`` for the HTML of the individual pages.  
+See ``src/index.css`` for the styling of the website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
