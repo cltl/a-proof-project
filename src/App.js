@@ -22,6 +22,7 @@ function App() {
           <Route path='/contact' element={<Contact />} />
           <Route path='/team' element={<Team />} />
           <Route path='/about' element={<About />} />
+          <Route path='/a-proof-project' element={<About />} />
           <Route path='/' element={<About />} />
         </Routes>
         <div className="footer">footer</div>
