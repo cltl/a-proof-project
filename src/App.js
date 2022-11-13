@@ -14,7 +14,7 @@ import {
 function App() {
   
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/a-proof-project">
       <div className="App">
         <Nav />
         <Routes>
