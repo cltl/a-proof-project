@@ -1,11 +1,12 @@
 {
+  "homepage": "http://cltl.github.io/a-proof-project/",
   "name": "yarn-project",
   "private": true,
   "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run build",
+    "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
