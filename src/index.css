@@ -204,8 +204,14 @@ ul {
   .spacedul>li {
     width:70%;
   }
-  .spacedli>a {
+  .spacedul>li>a {
     width: 50%;
+  }
+  a{
+    width:50%;
+  }
+  li{
+    width:50%;
   }
 
 }
