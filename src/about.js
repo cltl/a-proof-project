@@ -8,7 +8,6 @@ export default function About() {
             <div className="page">
                 <h1>Welcome to A - PROOF</h1>
                 <p style={{ fontFamily: "PublicSans-Light, sans-serif", fontSize: "27px" }}><b>A</b>utomated <b>P</b>rediction of post-COVID <b>R</b>ec<b>O</b>very <b>O</b>f <b>F</b>unctioning</p>
-                <hr style={{ color: "#228c22" }}></hr>
                 <p className="aboutp">A-PROOF is a collaboration of medical and AI researchers to develop technology that can automatically monitor
                     the functioning of people in need of health care.</p>
                 <br></br>
@@ -17,7 +16,7 @@ export default function About() {
                     Your browser does not support the video tag.
                 </video>
                 <div className="subpage">
-                    <h3>PROJECT CODE</h3>
+                    <h3>Project Code</h3>
 
                     <ul>
                         <li> <b>Pilot-project:</b> <a href="https://github.com/cltl/a-proof">https://github.com/cltl/a-proof</a> </li>

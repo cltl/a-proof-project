@@ -47,6 +47,8 @@ html {
 
 h1 {
   font-family: "PublicSans-Bold", sans-serif;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .large-font {
@@ -112,6 +114,7 @@ h1 {
 
 .aboutp {
   inline-size: 70ch;
+  margin-top:8px;
 }
 
 
