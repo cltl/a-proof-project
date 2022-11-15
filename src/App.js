@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Nav from './nav'
+import Footer from './footer'
 import About from './about'
 import Team from './team'
 import Publications from './publications'
@@ -25,6 +26,7 @@ function App() {
           <Route path='/a-proof-project/' element={<About />} />
           <Route path='/' element={<About />} />
         </Routes>
+        <Footer />
       </div>
     </BrowserRouter >
 
