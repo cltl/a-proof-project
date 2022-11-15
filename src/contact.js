@@ -8,6 +8,23 @@ export default function Contact() {
                 <h1>Contact</h1>
                 <p className="large-font"><b>For questions, please contact:</b>&ensp; piek.vossen@vu.nl</p>
             </div>
+            {/* NOT A GOOD CODE; TEMPORARY SOLUTION TO FIX THE FOOTER */}
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
         </div>
     )
 }
