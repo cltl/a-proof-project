@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/a-proof-project/static/css/main.74eaeaa7.css",
+    "main.css": "/a-proof-project/static/css/main.8f09f8af.css",
     "main.js": "/a-proof-project/static/js/main.b990878b.js",
     "static/js/787.7818b0c7.chunk.js": "/a-proof-project/static/js/787.7818b0c7.chunk.js",
     "static/media/A-PROOF_team.png": "/a-proof-project/static/media/A-PROOF_team.b05f85263ad6e3d81d18.png",
@@ -9,12 +9,12 @@
     "static/media/PublicSans-Bold.ttf": "/a-proof-project/static/media/PublicSans-Bold.9cf144b0c7cfebd1c6ce.ttf",
     "static/media/PublicSans-Light.ttf": "/a-proof-project/static/media/PublicSans-Light.996c0ed1b19989fb27d3.ttf",
     "index.html": "/a-proof-project/index.html",
-    "main.74eaeaa7.css.map": "/a-proof-project/static/css/main.74eaeaa7.css.map",
+    "main.8f09f8af.css.map": "/a-proof-project/static/css/main.8f09f8af.css.map",
     "main.b990878b.js.map": "/a-proof-project/static/js/main.b990878b.js.map",
     "787.7818b0c7.chunk.js.map": "/a-proof-project/static/js/787.7818b0c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74eaeaa7.css",
+    "static/css/main.8f09f8af.css",
     "static/js/main.b990878b.js"
   ]
 }
