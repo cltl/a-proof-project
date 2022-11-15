@@ -1,14 +1,19 @@
-import doctors from "./img/doctors.png"
-import schema from "./img/A-PROOF.mp4"
-import { motion } from "framer-motion";
+import doctors from "./img/doctors.png";
+import schema from "./img/A-PROOF.mp4";
+import {motion} from "framer-motion";
 
 export default function About() {
     return (
         <div>
             <img className="bg overlap" src={doctors} alt="dokters"></img>
-            <div className="page">
-                <motion.h1 animate={{ fontSize: "50px" }}>Welcome to A - PROOF</motion.h1>
-                <p style={{ fontFamily: "PublicSans-Light, sans-serif", fontSize: "28px" }}><b>A</b>utomated <b>P</b>rediction of post-COVID <b>R</b>ec<b>O</b>very <b>O</b>f <b>F</b>unctioning</p>
+            <motion.div className="page"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+            >
+                <h1 animate={{ fontSize: "50px" }}>Welcome to A - PROOF</h1>
+                <p style={{ fontFamily: "PublicSans-Light, sans-serif", fontSize: "28px" }}>
+                    <b>A</b>utomated <b>P</b>rediction of post-COVID <b>R</b>ec<b>O</b>very <b>O</b>f <b>F</b>unctioning
+                </p>
                 <p className="aboutp">A-PROOF is a collaboration of medical and AI researchers to develop technology that can automatically monitor
                     the functioning of people in need of health care.</p>
                 <br></br>
@@ -31,7 +36,7 @@ export default function About() {
                 <br></br>
                 <p className="large-font"><b>For questions, please contact:</b>&ensp; piek.vossen@vu.nl</p>
                 <br></br>
-            </div>
+            </motion.div>
         </div>
 
     )

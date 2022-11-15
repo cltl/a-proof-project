@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/a-proof-project/static/css/main.8f09f8af.css",
-    "main.js": "/a-proof-project/static/js/main.b990878b.js",
+    "main.css": "/a-proof-project/static/css/main.e2603dd2.css",
+    "main.js": "/a-proof-project/static/js/main.74e8a3ef.js",
     "static/js/787.7818b0c7.chunk.js": "/a-proof-project/static/js/787.7818b0c7.chunk.js",
     "static/media/A-PROOF_team.png": "/a-proof-project/static/media/A-PROOF_team.b05f85263ad6e3d81d18.png",
     "static/media/doctors.png": "/a-proof-project/static/media/doctors.655ac04ecd4296dab77d.png",
@@ -9,12 +9,12 @@
     "static/media/PublicSans-Bold.ttf": "/a-proof-project/static/media/PublicSans-Bold.9cf144b0c7cfebd1c6ce.ttf",
     "static/media/PublicSans-Light.ttf": "/a-proof-project/static/media/PublicSans-Light.996c0ed1b19989fb27d3.ttf",
     "index.html": "/a-proof-project/index.html",
-    "main.8f09f8af.css.map": "/a-proof-project/static/css/main.8f09f8af.css.map",
-    "main.b990878b.js.map": "/a-proof-project/static/js/main.b990878b.js.map",
+    "main.e2603dd2.css.map": "/a-proof-project/static/css/main.e2603dd2.css.map",
+    "main.74e8a3ef.js.map": "/a-proof-project/static/js/main.74e8a3ef.js.map",
     "787.7818b0c7.chunk.js.map": "/a-proof-project/static/js/787.7818b0c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f09f8af.css",
-    "static/js/main.b990878b.js"
+    "static/css/main.e2603dd2.css",
+    "static/js/main.74e8a3ef.js"
   ]
 }
