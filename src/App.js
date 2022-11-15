@@ -25,7 +25,6 @@ function App() {
           <Route path='/a-proof-project/' element={<About />} />
           <Route path='/' element={<About />} />
         </Routes>
-        <div className="footer">footer</div>
       </div>
     </BrowserRouter >
 

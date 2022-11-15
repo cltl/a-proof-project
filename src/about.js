@@ -6,8 +6,8 @@ export default function About() {
         <div>
             <img className="bg overlap" src={doctors} alt="dokters"></img>
             <div className="page">
-                <h1>Welcome to A - PROOF</h1>
-                <p style={{ fontFamily: "PublicSans-Light, sans-serif", fontSize: "27px" }}><b>A</b>utomated <b>P</b>rediction of post-COVID <b>R</b>ec<b>O</b>very <b>O</b>f <b>F</b>unctioning</p>
+                <h1 style={{ fontSize: "40px" }}>Welcome to A - PROOF</h1>
+                <p style={{ fontFamily: "PublicSans-Light, sans-serif", fontSize: "28px" }}><b>A</b>utomated <b>P</b>rediction of post-COVID <b>R</b>ec<b>O</b>very <b>O</b>f <b>F</b>unctioning</p>
                 <p className="aboutp">A-PROOF is a collaboration of medical and AI researchers to develop technology that can automatically monitor
                     the functioning of people in need of health care.</p>
                 <br></br>
