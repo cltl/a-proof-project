@@ -1,11 +1,16 @@
-import teamphoto from "./img/A-PROOF_team.png"
-import doctors from "./img/doctors.png"
+import teamphoto from "./img/A-PROOF_team.png";
+import doctors from "./img/doctors.png";
+import {motion} from 'framer-motion';
 
 export default function Team() {
     return (
         <div>
             <img className="bg overlap" src={doctors} alt="dokters"></img>
-            <div className="page">
+            <motion.div className="page"
+                initial={{ width: 0 }}
+                animate={{ width: "70%", transition: { duration: 0.4 } }}
+                exit={{ x: window.innerWidth, transition: { duration: 0.2 } }}
+            >
                 <div className="textcontainer">
                     <h1>The A-PROOF Core Team</h1>
                     <ul>
@@ -36,7 +41,7 @@ export default function Team() {
                     </ul>
                 </div>
                 <img className="smallimage" src={teamphoto} alt="team"></img>
-            </div>
+            </motion.div>
         </div>
     )
 }

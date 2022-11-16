@@ -1,14 +1,15 @@
 import doctors from "./img/doctors.png";
 import schema from "./img/A-PROOF.mp4";
-import {motion} from "framer-motion";
+import { motion } from "framer-motion";
 
 export default function About() {
     return (
         <div>
             <img className="bg overlap" src={doctors} alt="dokters"></img>
             <motion.div className="page"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
+                initial={{ width: 0 }}
+                animate={{ width: "70%", transition: { duration: 0.4 } }}
+                exit={{ x: window.innerWidth, transition: { duration: 0.2 } }}
             >
                 <h1 animate={{ fontSize: "50px" }}>Welcome to A - PROOF</h1>
                 <p style={{ fontFamily: "PublicSans-Light, sans-serif", fontSize: "28px" }}>
