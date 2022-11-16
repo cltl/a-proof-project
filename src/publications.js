@@ -11,7 +11,7 @@ export default function Publications() {
                 exit={{ x: window.innerWidth, transition: { duration: 0.2 } }}
             >
                 <h1>Publications</h1>
-                <p><i>Click on a publication to view it.</i></p>
+                <p><i>Click on a publication to view it</i></p>
                 <div className="textcontainer">
                     <ul className="spacedul">
                         <motion.li whileHover={{scale:1.1}}> 
