@@ -35,7 +35,7 @@ export default function About() {
                     </ul>
                 </div>
                 <br></br>
-                <p className="large-font"><b>For questions, please contact:</b>&ensp; piek.vossen@vu.nl</p>
+                <p className="large-font"><b>For questions, please contact:</b>&ensp; m.vanderleeden@amsterdamumc.nl</p>
                 <br></br>
             </motion.div>
         </div>

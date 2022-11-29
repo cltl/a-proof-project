@@ -11,7 +11,7 @@ export default function Contact() {
                 exit={{ x: window.innerWidth, transition:{duration:0.2}}}
             >
                 <h1>Contact</h1>
-                <p className="large-font"><b>For questions, please contact:</b>&ensp; piek.vossen@vu.nl</p>
+                <p className="large-font"><b>For questions, please contact:</b>&ensp; m.vanderleeden@amsterdamumc.nl</p>
             </motion.div>
             {/* NOT A GOOD CODE; TEMPORARY SOLUTION TO FIX THE FOOTER */}
             <br></br>
