@@ -30,7 +30,7 @@ export default function Publications() {
                             <a href="https://www.clinjournal.org/clinj/article/view/132">Verkijk S, and Vossen PJTM, “MedRoBERTa.nl: A Language Model for Dutch Electronic Health Records,” <i>Computational Linguistics in the Netherlands Journal, 11</i>, 141–159, 2021.
                             </a> 
                         </motion.li>
-                        <motion.li whileHover={{ scale: 1.1 }}>
+                        <motion.li whileHover={{ scale:1.1 }}>
                             <a href="https://pubmed.ncbi.nlm.nih.gov/35856286/"> van der Veen S, van der Leeden M, Geleijn E, Vossen P, Meskers CGM, Widdershoven GAM. Artificial intelligence to improve rehabilitation care for children with developmental conditions: Some ethical considerations. <i>Dev Med Child Neurol</i>. 2023 Jan;65(1):12-13. doi: 10.1111/dmcn.15348. Epub 2022 Jul 20. PMID: 35856286
                             </a>
                         </motion.li>
