@@ -14,17 +14,21 @@ export default function Team() {
                 <div className="textcontainer">
                     <h1>The A-PROOF Core Team</h1>
                     <ul>
-                        <li> Rehabilitation Medicine:</li>
+                        <li><b>Rehabilitation Medicine (AmsterdamUMC)</b></li>
                         <ul>
-                            <li> Edwin Geleijn, Caroline Meskers, dr. Carel Meskers, dr. Marike van der Leeden</li>
+                            <li> Edwin Geleijn, Caroline Meskers, prof.dr. Carel Meskers, dr. Marike van der Leeden</li>
                         </ul>
-                        <li> VU Computational Linguistics and Text Mining Lab:</li>
+                        <li><b>VU Computational Linguistics and Text Mining Lab</b></li>
                         <ul>
                             <li> prof.dr. Piek Vossen, Jenia Kim </li>
                         </ul>
-                        <li> ICF: </li>
+                        <li><b>ICF (Leiden University, AmsterdamUMC)</b></li>
                         <ul>
-                            <li>prof.dr. Guy Widdershoven, Sabina van der Veen MSc</li>
+                            <li>Sabina van der Veen MSc, prof.dr. Guy Widdershoven</li>
+                        </ul>
+                        <li><b>Amsterdam University of Applied Sciences / Hogeschool van Amsterdam</b></li>
+                        <ul>
+                            <li>dr. Jesse Aarden, Marwan el Morabet MSc</li>
                         </ul>
                     </ul>
 
@@ -36,7 +40,7 @@ export default function Team() {
 
                     <h1>Master Students Text Mining / Data Science</h1>
                     <ul>
-                        <li> Stella, Quirine, Gian-Luca, Bruna, Ellemijn, Sharona, Enrico, Xiouqian, Leyla (under supervision of Marwam el Morabet/Jesse Aarden)
+                        <li> Stella, Quirine, Gian-Luca, Bruna, Ellemijn, Sharona, Enrico, Xiouqian, Leyla (under supervision of Marwan el Morabet/Jesse Aarden)
                         </li>
                     </ul>
                 </div>
