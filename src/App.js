@@ -9,11 +9,11 @@ import { BrowserRouter } from "react-router-dom";
 function App() {
   return (
     <BrowserRouter basename="/a-proof-project">
-      <div className="App">
+    <div className="App">
         <Nav />
         <AnimatedRoutes />
-        <Footer />
-      </div>
+    </div>
+    <Footer/>
     </BrowserRouter >
 
   );

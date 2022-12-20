@@ -1,11 +1,11 @@
-import doctors from "./img/doctors.png";
+import bg from "./img/background.jpg";
 import schema from "./img/A-PROOF.mp4";
 import { motion } from "framer-motion";
 
 export default function About() {
     return (
         <div>
-            <img className="bg overlap" src={doctors} alt="dokters"></img>
+            <img style={{ backgroundStyle:"cover"}} className="bg overlap" src={bg} alt="background"></img>
             <motion.div className="page"
                 initial={{ width: 0 }}
                 animate={{ width: "70%", transition: { duration: 0.4 } }}
@@ -22,7 +22,7 @@ export default function About() {
                     <source src={schema} type="video/mp4"></source>
                     Your browser does not support the video tag.
                 </video>
-                <div className="subpage">
+                {/* <div className="subpage">
                     <h3>Project Code</h3>
 
                     <ul>
@@ -33,7 +33,7 @@ export default function About() {
                             <li> <b>Docker:</b> <a href="https://hub.docker.com/r/piekvossen/a-proof-icf-classifier">https://hub.docker.com/r/piekvossen/a-proof-icf-classifier</a> </li>
                         </ul>
                     </ul>
-                </div>
+                </div> */}
                 <br></br>
                 <p className="large-font"><b>For questions, please contact:</b>&ensp; m.vanderleeden@amsterdamumc.nl</p>
                 <br></br>
