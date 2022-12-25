@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/a-proof-project/static/css/main.d9392eaf.css",
+    "main.css": "/a-proof-project/static/css/main.4deb7b88.css",
     "main.js": "/a-proof-project/static/js/main.83995196.js",
     "static/js/787.7818b0c7.chunk.js": "/a-proof-project/static/js/787.7818b0c7.chunk.js",
     "static/media/background.jpg": "/a-proof-project/static/media/background.214d04d83866660466a7.jpg",
@@ -13,12 +13,12 @@
     "static/media/logo_hogeschool.png": "/a-proof-project/static/media/logo_hogeschool.fea0eb8b252f4f85a60f.png",
     "static/media/logo_VU-modified.png": "/a-proof-project/static/media/logo_VU-modified.efc36ac849842c5545d0.png",
     "index.html": "/a-proof-project/index.html",
-    "main.d9392eaf.css.map": "/a-proof-project/static/css/main.d9392eaf.css.map",
+    "main.4deb7b88.css.map": "/a-proof-project/static/css/main.4deb7b88.css.map",
     "main.83995196.js.map": "/a-proof-project/static/js/main.83995196.js.map",
     "787.7818b0c7.chunk.js.map": "/a-proof-project/static/js/787.7818b0c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9392eaf.css",
+    "static/css/main.4deb7b88.css",
     "static/js/main.83995196.js"
   ]
 }

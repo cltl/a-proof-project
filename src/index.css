@@ -289,11 +289,15 @@ ul {
   }
 
   .logo_vu {
-    width: 20vw;
+    width: 17vw;
+    margin-right:0;
+    margin-top:1vh;
   }
 
   .logo_hogeschool {
-    width: 20vw;
+    margin-top:4vh;
+    width: 25vw;
+    margin:0;
   }
 
   .logo_leiden {
