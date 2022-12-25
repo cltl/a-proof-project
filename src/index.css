@@ -242,6 +242,11 @@ ul {
 /* temporary solution for responsiveness */
 @media (max-width:1000px) {
 
+  body, 
+  html {
+    margin: 0;
+  }
+
 
   .page {
     width: 100%;
@@ -297,11 +302,11 @@ ul {
 
 
   .spacedul>li {
-    width: 70%;
+    width: 60%;
   }
 
   .spacedul>li>a {
-    width: 80%;
+    width: 70%;
   }
 
   .textcontainer {
@@ -313,11 +318,11 @@ ul {
   }
 
   a {
-    width: 70%;
+    width: 60%;
   }
 
   li {
-    width: 80%;
+    width: 70%;
   }
 
 }
