@@ -1,10 +1,9 @@
-import bg from "./img/background.jpg";
+import background from "./img/background.jpg";
 import {motion} from "framer-motion";
 
 export default function Publications() {
     return (
-        <div>
-            <img className="bg overlap" src={bg} alt="background"></img>
+        <>
             <motion.div className="page"
                 initial={{ width: 0 }}
                 animate={{ width: "70%", transition: { duration: 0.4 } }}
@@ -48,10 +47,7 @@ export default function Publications() {
                         </ul>
                     </ul>
                 </div>
-                <br></br>
-                <p></p>
-                <br></br>
             </motion.div>
-        </div>
+        </>
     )
 }

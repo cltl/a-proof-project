@@ -1,11 +1,10 @@
 import teamphoto from "./img/A-PROOF_team.png";
-import bg from "./img/background.jpg";
+import background from "./img/background.jpg";
 import {motion} from 'framer-motion';
 
 export default function Team() {
     return (
-        <div>
-            <img className="bg overlap" src={bg} alt="background"></img>
+        <>
             <motion.div className="page"
                 initial={{ width: 0 }}
                 animate={{ width: "70%", transition: { duration: 0.4 } }}
@@ -46,6 +45,6 @@ export default function Team() {
                 </div>
                 <img className="smallimage" src={teamphoto} alt="team"></img>
             </motion.div>
-        </div>
+        </>
     )
 }

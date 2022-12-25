@@ -1,11 +1,12 @@
-import bg from "./img/background.jpg";
+import background from "./img/background.jpg";
 import schema from "./img/A-PROOF.mp4";
 import { motion } from "framer-motion";
+import Footer from './footer';
+
 
 export default function About() {
     return (
-        <div>
-            <img style={{ backgroundStyle:"cover"}} className="bg overlap" src={bg} alt="background"></img>
+            <>
             <motion.div className="page"
                 initial={{ width: 0 }}
                 animate={{ width: "70%", transition: { duration: 0.4 } }}
@@ -22,23 +23,10 @@ export default function About() {
                     <source src={schema} type="video/mp4"></source>
                     Your browser does not support the video tag.
                 </video>
-                {/* <div className="subpage">
-                    <h3>Project Code</h3>
-
-                    <ul>
-                        <li> <b>Pilot-project:</b> <a href="https://github.com/cltl/a-proof">https://github.com/cltl/a-proof</a> </li>
-                        <li> <b>ZonMW project:</b> <a href="https://github.com/cltl/a-proof-zonmw">https://github.com/cltl/a-proof-zonmw</a> </li>
-                        <ul>
-                            <li> <b>GitHub:</b> <a href="https://github.com/cltl/aproof-icf-classifier">https://github.com/cltl/aproof-icf-classifier</a> </li>
-                            <li> <b>Docker:</b> <a href="https://hub.docker.com/r/piekvossen/a-proof-icf-classifier">https://hub.docker.com/r/piekvossen/a-proof-icf-classifier</a> </li>
-                        </ul>
-                    </ul>
-                </div> */}
                 <br></br>
                 <p className="large-font"><b>For questions, please contact:</b>&ensp; m.vanderleeden@amsterdamumc.nl</p>
                 <br></br>
-            </motion.div>
-        </div>
-
+            </motion.div>  
+            </>          
     )
 }
