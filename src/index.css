@@ -140,6 +140,7 @@ h1 {
 }
 
 .nav {
+  position:relative;
   width: 100%;
   size: 1.5rem;
   display: flex;
