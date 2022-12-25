@@ -140,7 +140,6 @@ h1 {
 }
 
 .nav {
-  position:relative;
   width: 100%;
   size: 1.5rem;
   display: flex;
@@ -242,9 +241,12 @@ ul {
 
 /* temporary solution for responsiveness */
 @media (max-width:1000px) {
+
+
   .page {
-    width: 90%;
-    margin-top: -4vh;
+    width: 100%;
+    margin-top: 5vh;
+    margin-bottom: 12vh;
     padding: 15px;
   }
 
@@ -266,28 +268,56 @@ ul {
     width: 100%;
   }
 
-  .navlink {
+  .logolinks {
     gap: 1px;
   }
+
+  .navlink {  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;  
+  }
+
+  .logo_umc {
+    width: 20vw;
+  }
+
+  .logo_vu {
+    width: 20vw;
+  }
+
+  .logo_hogeschool {
+    width: 20vw;
+  }
+
+  .logo_leiden {
+    width: 20vw;
+  }
+
 
   .spacedul>li {
     width: 70%;
   }
 
   .spacedul>li>a {
-    width: 70%;
+    width: 80%;
   }
 
   .textcontainer {
     width: 100%;
   }
 
+  .footer {
+    font-size: 15px;
+  }
+
   a {
-    width: 60%;
+    width: 70%;
   }
 
   li {
-    width: 70%;
+    width: 80%;
   }
 
 }
